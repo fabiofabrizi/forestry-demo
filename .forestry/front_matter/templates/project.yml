@@ -26,3 +26,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- this-is-fabs-test-page.md
