@@ -15,6 +15,7 @@ sections:
   label: Pages
   create: all
   templates:
+  - project
   - landing-page
   - page
 - type: directory
